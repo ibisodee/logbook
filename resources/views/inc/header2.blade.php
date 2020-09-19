@@ -89,7 +89,7 @@
                         </a>
                     </li>
                     <li class="nav-item theme-text">
-                        <a href="/" class="nav-link"> FREYSSINET </a>
+                        <a href="/" class="nav-link"> FOREVER SOLUTIONS </a>
                     </li>
                 </ul>
 
