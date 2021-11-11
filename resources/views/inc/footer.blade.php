@@ -1,6 +1,6 @@
 <div class="footer-wrapper">
                     <div class="footer-section f-section-1">
-                        <p class="">Copyright � 2020 <a target="_blank" href="#">Fresiney</a>, All rights reserved.</p>
+                        <p class="">Copyright @ {{ $year = date("Y") }} <a target="_blank" href="#">Forever Solutions </a>, All rights reserved.</p>
                     </div>
                     <div class="footer-section f-section-2">
                         <p class="">To be Used by Maintenance Team</p>

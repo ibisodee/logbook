@@ -95,13 +95,13 @@
                                         </thead>
                                         <tbody>
 
-                                        @foreach($equipments as $quipment)    
+                                        @foreach($equipments as $equipment)    
                                         <tr>
-                                            <td>{{ $quipment->id }}</td>
-                                            <td>{{ $quipment->category }}</td>
-                                            <td>{{ $quipment->model }}</td>
-                                            <td>{{ $quipment->engine_no }}</td>                                            
-                                            <td>{{ $quipment->reg_no }}</td>
+                                            <td>{{ $equipment->id }}</td>
+                                            <td>{{ $equipment->category }}</td>
+                                            <td>{{ $equipment->model }}</td>
+                                            <td>{{ $equipment->engine_no }}</td>                                            
+                                            <td>{{ $equipment->reg_no }}</td>
                                         </tr>
                                         @endforeach      
                                             
